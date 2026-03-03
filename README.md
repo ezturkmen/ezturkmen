@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # 👋 Selam, Ben Esra Zeynep Türkmen!
 
 **Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
-Matematiğin teorik derinliğini, finansın dinamizmi ve yapay zekanın gücüyle birleştiriyorum. Şu anda **Yapay Zeka ve Veri Bilimi Uzmanlığı** eğitimimle veri odaklı çözümler üretmeye odaklanıyor, analitik bakış açımı modern teknolojilere entegre ediyorum.
+[cite_start]Matematiğin teorik derinliğini finans sektöründeki operasyonel deneyimimle birleştiriyor, veriyi anlamlı içgörülere dönüştürmek için yapay zeka teknolojilerinden faydalanıyorum[cite: 1, 3, 7]. [cite_start]Finansal süreçlerde analitik çözümler üretmeye ve veri odaklı değer katmaya odaklıyım[cite: 3].
 
 ---
 
@@ -20,26 +18,17 @@ Matematiğin teorik derinliğini, finansın dinamizmi ve yapay zekanın gücüyl
 
 ### 🚀 Neler Yapıyorum?
 
-* 🎓 **Sürekli Öğrenme:** Yapay Zeka ve Veri Bilimi Uzmanlığı programı kapsamında makine öğrenmesi ve veri analitiği üzerine çalışıyorum.
-* [cite_start]📊 **Excel Eğitmenliği:** Başlangıç ve Orta düzeyde Excel eğitimleri vererek, sayısal verilerin verimli kullanılmasında mentorluk yapıyorum.
-* [cite_start]🧠 **Finansal Analiz:** Borçelik bünyesinde edindiğim raporlama ve bütçe kontrol deneyimlerimi veri bilimiyle modernize ediyorum[cite: 7].
+* 🎓 **Geleceği İnşa Etmek:** Şu an Yapay Zeka ve Veri Bilimi Uzmanlığı programı ile makine öğrenmesi ve veri analitiği yetkinliklerimi derinleştiriyorum.
+* [cite_start]📊 **Finansal Süreç Yönetimi:** Borçelik bünyesinde raporlama ve operasyonel süreçlerde aktif rol aldım.
+* 🏫 **Bilgi Paylaşımı:** Başlangıç ve Orta düzeyde Excel eğitimleri vererek analitik araçların etkin kullanımı konusunda mentorluk yapıyorum.
+* [cite_start]🔢 **Akademik Disiplin:** Sayılar teorisi üzerine yayımlanmış akademik çalışmalarım ve yüksek lisans derecemle problem çözme süreçlerine bilimsel bir bakış açısı getiriyorum[cite: 7, 29].
 
 ---
 
 ### 🌟 Öne Çıkan Projelerim
 
 #### 🍲 [Lezzet Bulucu 2.0](https://yemek-tarifi-app.vercel.app/)
-Kullanıcı dostu arayüzü ile hazırlanan, **Vercel** üzerinde barındırılan modern yemek tarifi platformu. 
-
-#### ☕ [Sırrı Kahve](https://github.com/ezturkmen/Google-Ai-SIRRI-KAHVE)
-Google AI Studio ve Gemini entegrasyonu ile geliştirilmiş, yapay zeka tabanlı kahve falı yorumlama uygulaması.
-
----
-
-### 📚 Akademik & Sosyal Katkı
-
-* [cite_start]📝 **Yayın:** *"Almost balancers, almost cobalancers, almost Lucas-balancers and almost Lucas-cobalancers"* - **Notes on Number Theory and Discrete Mathematics**[cite: 29, 30].
-* [cite_start]🤝 **Gönüllülük:** AFAD Sosyal Yardımlaşma ve Borusan Okyanus Gönüllüleri projelerinde aktif rol alarak toplumsal fayda sağlıyorum[cite: 21, 25].
+Kullanıcıların tercihlerine göre kişiselleştirilmiş tarifler sunan, **Vercel** üzerinde barındırılan modern web uygulaması.
 
 ---
 
@@ -49,4 +38,4 @@ Google AI Studio ve Gemini entegrasyonu ile geliştirilmiş, yapay zeka tabanlı
 [![Email](https://img.shields.io/badge/Email-FFD1DC?style=flat-square&logo=gmail&logoColor=white)](mailto:ezturkmen99@gmail.com)
 
 ---
-*"Analitik düşün, veriyle değer üret."*
+*"Veriyle kanıtla, matematikle açıkla."*
