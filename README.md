@@ -4,8 +4,10 @@
   <img src="esra_github_banner.png" alt="Esra Zeynep Türkmen Professional Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=5000&pause=1500&color=F48FB1&center=true&vCenter=true&width=1000&lines=Y%C3%BCksek+Matematik%C3%A7i+%7C+Finansal+Operasyonlar+%7C+Yapay+Zeka+%26+Veri+Bilimi+Uzman%C4%B1+Aday%C4%B1;Analitik+d%C3%BC%C5%9F%C3%BCnceyle+veriyi%2C+tutkuyla+gelece%C4%9Fi+%C5%9Fekillendiriyorum." />
+</p>
 
-**Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
 Matematiğin sunduğu analitik derinliği finans sektöründeki operasyonel süreçlerle harmanlıyorum. Veriyi sadece sayılardan ibaret görmeyip, onu yapay zeka ve modern analiz araçlarıyla anlamlı stratejilere dönüştürmeye odaklıyım.
 
