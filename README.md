@@ -2,7 +2,7 @@
 
 # 👋 Selam, Ben Esra Zeynep Türkmen!
 
-**Yüksek Matematikçi | Finansman Uzmanı | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
+**Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
 Matematiğin teorik derinliğini, finansın dinamizmi ve yapay zekanın gücüyle birleştiriyorum. Şu anda **Yapay Zeka ve Veri Bilimi Uzmanlığı** eğitimimle veri odaklı çözümler üretmeye odaklanıyor, analitik bakış açımı modern teknolojilere entegre ediyorum.
 
