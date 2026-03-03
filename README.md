@@ -1,10 +1,5 @@
 # 👋 Selam, Ben Esra Zeynep Türkmen!
 
-<p align="center">
-  <img src="Code_Generated_Image.png" alt="Esra Zeynep Türkmen Banner" width="100%">
-</p>
-
-
 **Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
 Matematiğin sunduğu analitik derinliği finans sektöründeki operasyonel süreçlerle harmanlıyorum. Veriyi sadece sayılardan ibaret görmeyip, onu yapay zeka ve modern analiz araçlarıyla anlamlı stratejilere dönüştürmeye odaklıyım.
