@@ -1,7 +1,7 @@
 # 👋 Selam, Ben Esra Zeynep Türkmen!
 
 <p align="center">
-  <img src="esra_github_banner.png" alt="Esra Zeynep Türkmen Banner" width="100%">
+  <img src="Code_Generated_Image.png" alt="Esra Zeynep Türkmen Banner" width="100%">
 </p>
 
 
