@@ -1,5 +1,10 @@
 # 👋 Selam, Ben Esra Zeynep Türkmen!
 
+<p align="center">
+  <img src="esra_github_banner.png" alt="Esra Zeynep Türkmen Professional Banner" width="100%">
+</p>
+
+
 **Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
 Matematiğin sunduğu analitik derinliği finans sektöründeki operasyonel süreçlerle harmanlıyorum. Veriyi sadece sayılardan ibaret görmeyip, onu yapay zeka ve modern analiz araçlarıyla anlamlı stratejilere dönüştürmeye odaklıyım.
@@ -47,6 +52,18 @@ Matematiğin sunduğu analitik derinliği finans sektöründeki operasyonel sür
 * ⚓ **Borusan Okyanus Gönüllüleri:** Meslek lisesi öğrencilerine yönelik koçluk ve eğitim programlarında yer aldım.
 
 ---
+
+### 📚 **İlgi Alanları & Favoriler**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kitap_Tutkusu-FFD1DC?style=for-the-badge&logo=read-dot-cv&logoColor=white" alt="Books">
+<img src="https://img.shields.io/badge/Trekking-AEC6CF?style=for-the-badge&logo=googleearth&logoColor=white" alt="Trekking">
+<img src="https://img.shields.io/badge/Gastronomi-C1E1C1?style=for-the-badge&logo=kitchenaid&logoColor=white" alt="Cooking">
+</p>
+
+📖 **Okuma Listesi:** Psikoloji ve kişisel gelişim üzerine derinleşmeyi seviyorum; aynı zamanda veri bilimi ve teknoloji dünyasındaki güncel yayınları takip ediyorum.
+🥾 **Doğa & Trekking:** Analitik yoğunluktan uzaklaşmak için doğada uzun yürüyüşler yapmak ve yeni rotalar keşfetmek en büyük motivasyon kaynaklarımdan biri.
+🍳 **Mutfak Sanatları:** Farklı kültürlere ait yemekleri denemek ve kendi tariflerimi oluşturmak (Lezzet Bulucu projemin de ilham kaynağı!) hobilerim arasında yer alıyor.
 
 ### 📫 İletişim
 
