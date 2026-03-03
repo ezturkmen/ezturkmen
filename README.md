@@ -2,7 +2,7 @@
 
 **Yüksek Matematikçi | Finansal Operasyonlar & Raporlama | Yapay Zeka & Veri Bilimi Uzmanı Adayı**
 
-Matematiğin teorik derinliğini finans sektöründeki operasyonel deneyimimle birleştiriyor, veriyi anlamlı içgörülere dönüştürmek için yapay zeka teknolojilerinden faydalanıyorum[cite: 1, 3, 7]. [cite_start]Finansal süreçlerde analitik çözümler üretmeye ve veri odaklı değer katmaya odaklıyım.
+Matematiğin teorik derinliğini finans sektöründeki operasyonel deneyimimle birleştiriyor, veriyi anlamlı içgörülere dönüştürmek için yapay zeka teknolojilerinden faydalanıyorum. [cite_start]Finansal süreçlerde analitik çözümler üretmeye ve veri odaklı değer katmaya odaklıyım.
 
 ---
 
