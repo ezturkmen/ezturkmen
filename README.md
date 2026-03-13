@@ -38,7 +38,7 @@ Matematiğin sunduğu analitik derinliği finans sektöründeki operasyonel sür
 
 ### 🌟 Öne Çıkan Projelerim
 
-#### 🍲 [Lezzet Bulucu 2.0](https://yemek-tarifi-app.vercel.app/)
+#### 🍲 [Lezzet Bulucu 2.1](https://yemek-tarifi-app.vercel.app/)
 * Kullanıcıların elindeki malzemelere göre tarif bulabildiği, **Vercel** üzerinde barındırılan modern bir web uygulaması.
 
 #### 📊 Finansal Rapor Okuyucu (Geliştirme Aşamasında)
